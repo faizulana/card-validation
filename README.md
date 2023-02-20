@@ -2,6 +2,5 @@
 WebDev homework 1
 
 ![demonstration](validation.mp4)
-
-https://user-images.githubusercontent.com/114160427/220158126-04d45503-f4ae-4f04-9f9b-1d5791582d5e.mp4
+https://user-images.githubusercontent.com/114160427/220158958-9d4ebeb9-8136-48ec-a959-8c859ad9349b.mp4
 
