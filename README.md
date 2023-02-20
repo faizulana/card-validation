@@ -1,6 +1,5 @@
 # card-validation
 WebDev homework 1
 
-
-https://user-images.githubusercontent.com/114160427/220158958-9d4ebeb9-8136-48ec-a959-8c859ad9349b.mp4
+https://github.com/faizulana/card-validation/blob/6f46d4657970bfb0ff912037479369735b04bd5b/FullSizeRender.MOV
 
