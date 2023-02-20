@@ -1,6 +1,7 @@
 # card-validation
 WebDev homework 1
 
+Реализован класс Card и метод validate
 ![video](FullSizeRender.mp4)
 
 
